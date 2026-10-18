@@ -105,9 +105,3 @@ npm run preview
 ```
 
 ---
-
-## 👤 Author
-
-- **Name**: Kunj Desai
-- **Course**: Advanced Web Development Frameworks (AWDF)
-- **Practical**: Practical 3
